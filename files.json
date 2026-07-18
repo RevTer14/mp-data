@@ -1,14 +1,10 @@
 [
   {
-    "relativePath": "modloader/CustomUI/data.img",
-    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/modloader/CustomUI/data.img"
+    "relativePath": "cleo.asi",
+    "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/cleo.asi"
   },
   {
-    "relativePath": "modloader/CustomUI/textures.txd",
-    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/modloader/CustomUI/textures.txd"
-  },
-  {
-    "relativePath": "CLEO/custom_script.cs",
-    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/CLEO/custom_script.cs"
+    "relativePath": "modloader.asi",
+    "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/modloader.asi"
   }
 ]
