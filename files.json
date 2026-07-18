@@ -1,10 +1,12 @@
 [
-  {
-    "relativePath": "cleo.asi",
-    "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/cleo.asi"
-  },
-  {
-    "relativePath": "modloader.asi",
-    "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/modloader.asi"
-  }
+  { "relativePath": "cleo.asi", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/cleo.asi" },
+  { "relativePath": "modloader.asi", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/modloader.asi" },
+  { "relativePath": "MoonLoader.asi", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/MoonLoader.asi" },
+  { "relativePath": "bass.dll", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/bass.dll" },
+  { "relativePath": "lua51.dll", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/lua51.dll" },
+  { "relativePath": "gta_sa.exe", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/gta_sa.exe" },
+  { "relativePath": "SAMPFUNCS.asi", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/SAMPFUNCS.asi" },
+  { "relativePath": "vorbisHooked.dll", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/vorbisHooked.dll" },
+  { "relativePath": "vorbisFile.dll", "url": "https://github.com/RevTer14/mp-data/raw/refs/heads/main/vorbisFile.dll" },
+  { "folder": "moonloader" }
 ]
