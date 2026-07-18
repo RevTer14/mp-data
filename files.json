@@ -26,12 +26,12 @@
   },
   {
     "relativePath": "moonloader/AutoReboot.lua",
-    "hash": "4166ca1348d81208de7f68d3d567004fc217c11c4802360f1f37c216d21973c9",
+    "hash": "3ad536040ecda9102d4783160f0bd77bc98d14a6c1d0825f1699c1b91bab1654",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/AutoReboot.lua"
   },
   {
     "relativePath": "moonloader/imgui_notf.lua",
-    "hash": "46497bc88105fcbee44313ebb45b54c57078eb7e959c446357736683f67b898a",
+    "hash": "d3d911bf8fb7f804cccaa46db401b25b70dabeef2afefb61f02f3aa920cb30a1",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/imgui_notf.lua"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "relativePath": "moonloader/lib/bass.lua",
-    "hash": "ec30059bb0050029f03c406c58fa65d1b74424816de2c0487a79dad34ba419bd",
+    "hash": "21cb70ed0168f8b5d2b3b7e543156d8b98d5678db7b5e5154c8c898ef6d5bb69",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/bass.lua"
   },
   {
     "relativePath": "moonloader/lib/bitex.lua",
-    "hash": "f447e48e80522e66cd9f4a038a361cfa19912f4c3ed9cd1d8965c8db1a23f24f",
+    "hash": "b232b8e0765fb62ae1c76d35cd9e51bb4f84d40c97c12fcd0f8b60816f9668ca",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/bitex.lua"
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "relativePath": "moonloader/lib/effil.lua",
-    "hash": "5685236a73337237372226bef9740a6f7cb981998912724a0e4bd326da7e96dd",
+    "hash": "7886a541374f99c86d3714c0a04f65edb3ecb6ab1c933d343240abb908980fbf",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/effil.lua"
   },
   {
     "relativePath": "moonloader/lib/encoding.lua",
-    "hash": "57cb02218d46eb1b8b2b14ecde30fc0d1798fad9c69c2138ff9a7bf63d3efe9d",
+    "hash": "645e7fb9611411a02f6bd07bc1ade920d4d274017d2c2d3ad598bd0382fa43e8",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/encoding.lua"
   },
   {
     "relativePath": "moonloader/lib/faIcons.lua",
-    "hash": "17fd7333d34bc9d8c6f509e38e82ee1d71e1577654c38577f59705bb09187c7b",
+    "hash": "4a01aea1129124ea9f90d035a56aa5870ca707e53e8055d3b7e798bb0c45f2f4",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/faIcons.lua"
   },
   {
     "relativePath": "moonloader/lib/fAwesome5.lua",
-    "hash": "2b2c5c610885938b438c32cfaa08dd84aeaa227d6d463d11db0cef000e6b8036",
+    "hash": "3bcd1e9bc4b991b6a76cbf6f75f33d73eea3329c10c4fb08b1da971ca53a7e00",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/fAwesome5.lua"
   },
   {
@@ -91,22 +91,22 @@
   },
   {
     "relativePath": "moonloader/lib/game/globals.lua",
-    "hash": "f8b12223b5bc4909b90d7b4774c43668f123d094ade3d0d379cb0514e7815c39",
+    "hash": "f40e919cd149e217da7bac2aec6c5a1959f5d9817c8141eef62df8d0beeb6ec0",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/game/globals.lua"
   },
   {
     "relativePath": "moonloader/lib/game/keys.lua",
-    "hash": "10bfe26a67586eabf07823077ab5ba6acd78ebda7666179eaea91fcf2a6a5836",
+    "hash": "fcad830d0df2d1256e2d779ba87bb5336a0b94554567502008fcc484cf4abbc9",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/game/keys.lua"
   },
   {
     "relativePath": "moonloader/lib/game/models.lua",
-    "hash": "ba4dcac97bdd11de9daee4ce771ba34cc9e87ed24298201ea74661ae7b7d2475",
+    "hash": "fa014ae98cbbf90a964b56b878d09944d8fe1742ad59e8d29fec4a49c86ea6de",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/game/models.lua"
   },
   {
     "relativePath": "moonloader/lib/game/weapons.lua",
-    "hash": "ab044731f71a30a426e2d1aac1936169d4b558a5f6fe11d81c5c290ad0ae1e98",
+    "hash": "f0525b53f58e2de0531ed2b2c55588743030ee2bfaeb553d0d366dde3cf245e5",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/game/weapons.lua"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "relativePath": "moonloader/lib/htmlparser.lua",
-    "hash": "aeae37cc5993b45d6671a57bd146eccf88238c8da06607b0d5f919b7afcd56a8",
+    "hash": "b695f9439a095de6de7afb8232609832b97bbacb4100d6575ba6746f6cb4cc0c",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/htmlparser.lua"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "relativePath": "moonloader/lib/imgui.lua",
-    "hash": "8da7a6498d493cc36f413b810b171e5d7e44834b9db4cfbe19e412bb1040e614",
+    "hash": "83153983d7d5954deb00182bd75e92dcddb6ebc2a076cdf6f80cf7adb1eeacd1",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/imgui.lua"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "relativePath": "moonloader/lib/lanes.lua",
-    "hash": "697bca772fcbcdb05abdf57eb4777dd2d5122dd3d5abdc6e3be6111c85265ebe",
+    "hash": "cdb9250323ee5920569d8712eba003c18da338404fad130b13ae96a27ae9e39d",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/lanes.lua"
   },
   {
@@ -181,12 +181,12 @@
   },
   {
     "relativePath": "moonloader/lib/lustache.lua",
-    "hash": "cb2cf51a795ac3297d555fc6fc686d9253aa6d78dbf160b2c1450ae12582c90e",
+    "hash": "92cfd0c49e147c0d190e0f75bc4865b99c2ef23eb1b968834a505b7dba1a8dee",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/lustache.lua"
   },
   {
     "relativePath": "moonloader/lib/matrix3x3.lua",
-    "hash": "4ac3e8f840fdf294edce96a95e3199b2c6b5ea115036a2fd9862742d5db3d4e9",
+    "hash": "eac61fc4e6512cfdfd5ec515d72a42b2f2957d0fd9a03e9978c2dae39b975f78",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/matrix3x3.lua"
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "relativePath": "moonloader/lib/mimgui/cdefs.lua",
-    "hash": "8e5d3488f23c446a6a8a61b6b0ecc25cc38f326257b14801023bfad3bf650a7e",
+    "hash": "55b10a5b13590a076ffaf3a109f4748be305a76943313ddf22c9d9a5761bcaad",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/mimgui/cdefs.lua"
   },
   {
@@ -211,17 +211,17 @@
   },
   {
     "relativePath": "moonloader/lib/mimgui/dx9.lua",
-    "hash": "32904fdf0d1c8ecf6842df2c6feac94545cdf1c98631e174f0ccd50f37185f38",
+    "hash": "94522c3ea629b7e1daf92ce64376097ad222a62b67f5ed1adf7f8879f1b46f2f",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/mimgui/dx9.lua"
   },
   {
     "relativePath": "moonloader/lib/mimgui/imgui.lua",
-    "hash": "dac0e8cad50f766f8284a6bfeccb9ce275aa809d842e90ce81de52991cd87e9a",
+    "hash": "a55619546334392b1c654c9c0d9034dd971049906f277a60f27dd77bf7ae2cc6",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/mimgui/imgui.lua"
   },
   {
     "relativePath": "moonloader/lib/mimgui/init.lua",
-    "hash": "9df73262d77abce0970d409f599e1bd02cecbeb8bd1629027796d74454ed3efd",
+    "hash": "01b6eeed97631c7a350b7f8b23b924432d5b78116a0e426fe70ab6f8b7421f73",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/mimgui/init.lua"
   },
   {
@@ -236,12 +236,12 @@
   },
   {
     "relativePath": "moonloader/lib/moonloader.lua",
-    "hash": "58dc9a058468f53efda285b2e1bc41318ca84e1e0c4821e38c70766029c1530e",
+    "hash": "bda36a43e24f29d37f01eb556e810d89bd5fa3c2899fcd5867e8eb5617d4f867",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/moonloader.lua"
   },
   {
     "relativePath": "moonloader/lib/MoonMonet/init.lua",
-    "hash": "e7565ad6aace7ada124f6df8cd5c217536234c278ee18644ea01176e27668f78",
+    "hash": "2e5854d441b943b80b89f71f062a8a8f23f465a60b85feead59c432447400197",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/MoonMonet/init.lua"
   },
   {
@@ -256,47 +256,47 @@
   },
   {
     "relativePath": "moonloader/lib/requests.lua",
-    "hash": "52fc5c27c0de5bfcdc11b7411b4a562d46389f2624b097210ea31f4eb9daa18b",
+    "hash": "cc87b4764134b81488de4bc76b9e99fdc1f07b5e6fce8a35d78dfae63d9932fe",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/requests.lua"
   },
   {
     "relativePath": "moonloader/lib/rkeys.lua",
-    "hash": "87112cd9078d47d8bae63882e0e2fdbdd8480d82f7245ed9a0e6773ff4c3f726",
+    "hash": "955b858d0292d5359498dcf6e182510279b813ab347e56c2196d748f5f693245",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/rkeys.lua"
   },
   {
     "relativePath": "moonloader/lib/SAMemory/init.lua",
-    "hash": "75ee5f46e4a8c6ecfe2859c48648955b4653a2990e40ca5050bbcdd312378550",
+    "hash": "0accfef77436140d5d085c1026abb4b5c09995685833f064ccdfbfcd8a709c9f",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/SAMemory/init.lua"
   },
   {
     "relativePath": "moonloader/lib/SAMemory/metatype.lua",
-    "hash": "b13a4f7032f132b57f621999fb82587d6f46b6879cc2d91902c575d3336f1801",
+    "hash": "5bde92a9be243af04d06ae3c4f78fcb57f60fae936e6ca5f76010291fa4206a9",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/SAMemory/metatype.lua"
   },
   {
     "relativePath": "moonloader/lib/SAMemory/shared.lua",
-    "hash": "327a798d6c80bc5eeebf9284da04e13ce273f603bb9f4c2374e3b8a780244c76",
+    "hash": "01687fa96bb97966c77a60295a1919ae6faf0fc1d9e2bf3a14b2dc9108ed2948",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/SAMemory/shared.lua"
   },
   {
     "relativePath": "moonloader/lib/samp/events.lua",
-    "hash": "af575f181035ffec76424b3feb2554662e81289c85e9a305637aba9445b7d440",
+    "hash": "9d4426699ff60d9100c656aaa19842dc255088d368ecb06c79e69ae432acbdb2",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/samp/events.lua"
   },
   {
     "relativePath": "moonloader/lib/samp/raknet.lua",
-    "hash": "d0c47eefefe87387d00e806274d69a0dd2a22e885aa934fe08ec82b89cd1a3a1",
+    "hash": "f114023602a6799cd9041347f9ba65d3a27a576af5e9c2a621d59d91e2215920",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/samp/raknet.lua"
   },
   {
     "relativePath": "moonloader/lib/samp/synchronization.lua",
-    "hash": "1609e479684198d343cac5c8f4f5a521ba631eb80f7231ef4a103c3315d9b6fc",
+    "hash": "9a41d729323efd63e298020d12b7b7cfbd447b6e7113592fa6eb6d0e88797344",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/samp/synchronization.lua"
   },
   {
     "relativePath": "moonloader/lib/sampfuncs.lua",
-    "hash": "7c2528ec287d4ffdcb381f3a96a6678361075828cc727e9ff2e9cb91d4ad0cd3",
+    "hash": "99254bb46ffc8099c4c145d97b5c5f50f438d0536aded270579b018fb503b02f",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/sampfuncs.lua"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "relativePath": "moonloader/lib/ssl.lua",
-    "hash": "1926c6fc79396cb573f40b8e3fd4810f2b48b9b76e62d2e190041eab1d4a4d16",
+    "hash": "ca0ceeafc6d9e68cab7b3c2f2120d8b40e4d3065ed9be2169764ee87af54c75a",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/ssl.lua"
   },
   {
@@ -321,27 +321,27 @@
   },
   {
     "relativePath": "moonloader/lib/vector3d.lua",
-    "hash": "53ef9eedad5994e05320dcb5c14b504dd6c09e6a70111d76eb60a52d6c4a68af",
+    "hash": "5896b1519473475ae8e8912c81ed2611990e489d38745a6dd35f73c13dbf8322",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/vector3d.lua"
   },
   {
     "relativePath": "moonloader/lib/vkeys.lua",
-    "hash": "a74b3f76666e8c8b9fa078e239bcfd3123762ee064c242f9349fdda9a449718b",
+    "hash": "b411f2c33c5f326bb1048d0a4c314c8e06231a872925aff98cd4a1764b177cd8",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/vkeys.lua"
   },
   {
     "relativePath": "moonloader/lib/windows/init.lua",
-    "hash": "259c01a3c10b5470164dcf24614702d3d2121fb4c32b9fedfb626af281a93c11",
+    "hash": "a21b08e392b611bca7995fd48aa049f99916a483814da08bd9ac264b3b6c44da",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/windows/init.lua"
   },
   {
     "relativePath": "moonloader/lib/windows/message.lua",
-    "hash": "4ab3845c28e7755c86736162fd22cba165e534ec1df5c76665ce8ffdbb8a929f",
+    "hash": "ffa4278c91e1498b89907c60a01402174b59aa04f878c3a237702fb68eef6a86",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/lib/windows/message.lua"
   },
   {
     "relativePath": "moonloader/reload_all.lua",
-    "hash": "1526a13b1be861d7f7d636f8cea7f18d2e3fe3661f172b87fad9d5ed4fdf26db",
+    "hash": "05363dd723b80fc35c7c14f6e455ce665e34dd3dd70bc877461d7cbe13e46d90",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/reload_all.lua"
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "relativePath": "moonloader/SF Integration.lua",
-    "hash": "6c8a75c7d4128b6797fe161068badb4fd26ed07bd10c6fa47acce492d57dec8d",
+    "hash": "3b9b6ebd972df0c4f4c0fd0fb7d2497cccfa4fb336494e7acecd8b28443379e3",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/moonloader/SF Integration.lua"
   },
   {
