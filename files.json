@@ -10,11 +10,6 @@
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/cleo.asi"
   },
   {
-    "relativePath": "generate-manifest.js",
-    "hash": "414e499097c5bc4a39bbcc288c9eb0178fd572a8054f1ce6a4efeda462e6ade6",
-    "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/generate-manifest.js"
-  },
-  {
     "relativePath": "gta_sa.exe",
     "hash": "a5112e9cbbb0d06f271399697abe2a4e76aa8ea94568f51dfea19117518d7521",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/gta_sa.exe"
