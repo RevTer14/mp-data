@@ -1,0 +1,14 @@
+[
+  {
+    "relativePath": "modloader/CustomUI/data.img",
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/modloader/CustomUI/data.img"
+  },
+  {
+    "relativePath": "modloader/CustomUI/textures.txd",
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/modloader/CustomUI/textures.txd"
+  },
+  {
+    "relativePath": "CLEO/custom_script.cs",
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/CLEO/custom_script.cs"
+  }
+]
