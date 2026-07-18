@@ -10,11 +10,6 @@
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/cleo.asi"
   },
   {
-    "relativePath": "files.json",
-    "hash": "49ff0191b1a78538fc460f274761c297109d92974a6f68b05b4ada46d08b17ba",
-    "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/files.json"
-  },
-  {
     "relativePath": "generate-manifest.js",
     "hash": "414e499097c5bc4a39bbcc288c9eb0178fd572a8054f1ce6a4efeda462e6ade6",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/generate-manifest.js"
