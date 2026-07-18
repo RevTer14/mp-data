@@ -378,5 +378,10 @@
     "relativePath": "vorbisHooked.dll",
     "hash": "a08923479000cec366967fb8259e0920b7aa18859722c7dda1415726bed4774f",
     "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/vorbisHooked.dll"
+  },
+  {
+    "relativePath": "samp.dll",
+    "hash": "7e30f3c9cd99d5e2932410f486e8139affa2dad19bd65ad9c328f6a4071943f7",
+    "url": "https://raw.githubusercontent.com/RevTer14/mp-data/main/samp.dll"
   }
 ]
